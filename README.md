@@ -17,10 +17,10 @@ WHEN user click on the Write icon in the navigation at the top of the page
 THEN user am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 ### Screenshot:
-![note taker landing page](./Assets/landingpage.png)
-![note taking page](./Assets/notetaking.png)
-![note display after click](./Assets/notedisplay.png)
-![note deletion](./Assets/notedeletion.png)
+![note taker landing page](./homework/Assets/landingpage.png)
+![note taking page](./homework/Assets/notetaking.png)
+![note display after click](./homework/Assets/notedisplay.png)
+![note deletion](./homework/Assets/notedeletion.png)
 
 ### link to deployed application:
 [Heroku deployed link]()
