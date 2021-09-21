@@ -24,4 +24,5 @@ THEN user am presented with empty fields to enter a new note title and the noteâ
 
 ### link to deployed application:
 [Heroku deployed link](https://evening-shore-33228.herokuapp.com/)
+
 [Github repo link ](https://github.com/yinping-520/note-taker)
